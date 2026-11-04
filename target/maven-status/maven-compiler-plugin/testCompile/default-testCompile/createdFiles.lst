@@ -1,0 +1,11 @@
+pages\BasePage.class
+pages\HomePage.class
+support\ScenarioContext.class
+pages\SearchResultsPage.class
+pages\DealsPage.class
+support\ScreenshotUtil.class
+steps\AmazonSteps.class
+support\DriverFactory.class
+support\ConfigReader.class
+support\Hooks.class
+runner\TestRunner.class

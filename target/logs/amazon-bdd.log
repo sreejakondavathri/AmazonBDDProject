@@ -1,0 +1,19 @@
+2026-11-04 14:38:00 INFO  Hooks - Starting scenario: Open the third deal, add the minimum quantity and verify the cart
+2026-11-04 14:38:12 INFO  AmazonSteps - Opened Amazon home page
+2026-11-04 14:38:26 INFO  AmazonSteps - Opened Today's Deals
+2026-11-04 14:38:34 INFO  AmazonSteps - Opened the third visible deal card
+2026-11-04 14:38:39 INFO  AmazonSteps - Added minimum quantity: 1
+2026-11-04 14:38:41 INFO  AmazonSteps - Cart quantity verification successful. Expected: 1, Actual: 1
+2026-11-04 14:38:41 INFO  Hooks - Scenario passed: Open the third deal, add the minimum quantity and verify the cart
+2026-11-04 14:38:41 INFO  Hooks - Starting scenario: Search for mobiles and capture the last displayed result
+2026-11-04 14:38:49 INFO  AmazonSteps - Opened Amazon home page
+2026-11-04 14:38:56 INFO  AmazonSteps - Searched Amazon for: Mobiles
+2026-11-04 14:38:57 INFO  AmazonSteps - Last visible product details captured
+2026-11-04 14:38:57 INFO  AmazonSteps - Verified last displayed product details
+2026-11-04 14:38:57 INFO  Hooks - Scenario passed: Search for mobiles and capture the last displayed result
+2026-11-04 14:38:57 INFO  Hooks - Starting scenario: Navigate through the left menu to mobile phones and return home
+2026-11-04 14:39:06 INFO  AmazonSteps - Opened Amazon home page
+2026-11-04 14:39:09 INFO  AmazonSteps - Opened left navigation menu
+2026-11-04 14:39:19 INFO  AmazonSteps - Selected Mobiles > Mobile Phones
+2026-11-04 14:39:21 INFO  AmazonSteps - Returned to Amazon home page
+2026-11-04 14:39:21 INFO  Hooks - Scenario passed: Navigate through the left menu to mobile phones and return home
